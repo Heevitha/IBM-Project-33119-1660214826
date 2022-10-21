@@ -13,7 +13,7 @@ As per this project we will be analyzing some important visualization, creating 
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
 
-- AVINASH R 
+- AVINASH R      (TEAM LEAD)
 - KARTHIKEYAN B
 - VINOODHINI D
 - CHARUPRIYA S
