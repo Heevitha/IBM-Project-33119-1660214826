@@ -8,7 +8,7 @@
 </picture></a></h2>
 
 
-<h3 align="center">Tech Stack : Data Analytics, IBM Cognos Analytics, Google colab</h3>
+<h4 align="center">Tech Stack : Data Analytics, IBM Cognos Analytics, Google colab</h4>
 <p align="center">
    <a href="https://www.ibm.com/in-en">
     <img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
