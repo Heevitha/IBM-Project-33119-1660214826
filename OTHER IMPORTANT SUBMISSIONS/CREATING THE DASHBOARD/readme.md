@@ -1,1 +1,1 @@
-<h3 align="center"> Creating the Dashboard >/h3>
+<h3 align="center"> Creating the Dashboard </h3>
