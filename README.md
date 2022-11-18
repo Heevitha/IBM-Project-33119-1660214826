@@ -85,7 +85,8 @@ As per this project we will be analyzing some important visualization, creating 
 ✔ Technology Stack <br>
 ✔ Customer Journey Map <br>
 ✔ Project Ideation ,Design, Planning phase deliverables <br>
-✔ Sprint 1,2,3 deliverables <br>
+✔ Sprint 1,2,3,4 deliverables <br>
+✔ Final deliverables <br>
 <br>
 
 <!--🦶FOOTER--> 
